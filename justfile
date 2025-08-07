@@ -14,10 +14,10 @@ run-for-frankenstein:
     just run-with-param frankenstein.txt
 
 run-for-pride-and-prejudice:
-    just run-with-param pride-and-prejudice.txt
+    just run-with-param prideandprejudice.txt
 
 run-for-moby-dick:
-    just run-with-param moby-dick.txt
+    just run-with-param mobydick.txt
 
 run-for-dracula:
     just run-with-param dracula.txt
