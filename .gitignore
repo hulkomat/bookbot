@@ -31,5 +31,3 @@ build/
 dist/
 *.egg-info/
 .eggs/
-
-/books
